@@ -87,7 +87,8 @@ house-price-linear-regression/
 │
 ├── data/
 │   └── sales.csv
-├── linear_regression.ipynb
+├── notebooks/
+│   └── linear_regression.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
